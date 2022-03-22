@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\Desktop\Task struct\Task struct\obj\Debug\netcoreapp3.1\Task struct.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Task struct\Task struct\obj\Debug\netcoreapp3.1\Task struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Task struct\Task struct\obj\Debug\netcoreapp3.1\Task struct.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Task struct\Task struct\obj\Debug\netcoreapp3.1\Task struct.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Task struct\Task struct\obj\Debug\netcoreapp3.1\Task struct.csproj.CoreCompileInputs.cache
