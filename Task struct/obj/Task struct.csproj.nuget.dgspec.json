@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TOSHIBA\\Desktop\\Task struct\\Task struct\\Task struct.csproj": {}
+    "C:\\Users\\tu7knjupn\\Desktop\\Static-enum-extention-nullable-struct\\Task struct\\Task struct.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TOSHIBA\\Desktop\\Task struct\\Task struct\\Task struct.csproj": {
+    "C:\\Users\\tu7knjupn\\Desktop\\Static-enum-extention-nullable-struct\\Task struct\\Task struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TOSHIBA\\Desktop\\Task struct\\Task struct\\Task struct.csproj",
+        "projectUniqueName": "C:\\Users\\tu7knjupn\\Desktop\\Static-enum-extention-nullable-struct\\Task struct\\Task struct.csproj",
         "projectName": "Task struct",
-        "projectPath": "C:\\Users\\TOSHIBA\\Desktop\\Task struct\\Task struct\\Task struct.csproj",
-        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TOSHIBA\\Desktop\\Task struct\\Task struct\\obj\\",
+        "projectPath": "C:\\Users\\tu7knjupn\\Desktop\\Static-enum-extention-nullable-struct\\Task struct\\Task struct.csproj",
+        "packagesPath": "C:\\Users\\tu7knjupn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tu7knjupn\\Desktop\\Static-enum-extention-nullable-struct\\Task struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tu7knjupn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -17,9 +17,8 @@ namespace Task_struct.Utils
         }
         public void StudentInfo()
         {
-            Console.WriteLine($"ID:{Id}");
-            Console.WriteLine($"FullName{FullName}");
-            Console.WriteLine($"Point:{Point}");
+            Console.WriteLine($"ID:{Id} FullName:{FullName} Point:{Point}");
+          
         }
         public Student()
         {

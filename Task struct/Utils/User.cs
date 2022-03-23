@@ -74,9 +74,8 @@ namespace Task_struct.Utils
         }
         public void Showinfo()
         {
-            Console.WriteLine($"Id:{Id}");
-            Console.WriteLine($"FullName:{Fullname}");
-            Console.WriteLine($"Email:{Email}");
+            Console.WriteLine($"Id:{Id} FullName:{Fullname} Email:{Email}");
+          
 
         }
 
