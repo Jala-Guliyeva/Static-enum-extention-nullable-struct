@@ -30,9 +30,8 @@ namespace Task_struct.Utils
         public bool PasswordChecker(string password)
         {
             bool pswrd = false;
-            bool pswrd1 = false;
-            bool pswrd2 = false;
-            bool pswrd3 = false;
+           
+           
 
             for (i = 0; i < password.Length - 1; i++)
             {
@@ -42,20 +41,20 @@ namespace Task_struct.Utils
                 }
                 else if (char.IsLower(password[i]))
                 {
-                    pswrd1 = true;
+                    pswrd = true;
                 }
                 else if (char.IsUpper(password[i]))
                 {
-                    pswrd2 = true;
+                    pswrd= true;
                 }
                 else if (char.IsNumber(password[i]))
                 {
-                    pswrd3 = true;
+                    pswrd = true;
                 }
 
             }
 
-            if (pswrd == true && pswrd1 == true && pswrd2 == true && pswrd3 == true)
+            if (pswrd == true && pswrd == true && pswrd== true && pswrd == true)
             {
                 return true;
             }
